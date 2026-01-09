@@ -1,2 +1,3 @@
 # BeenaAnam-Resume
-<a href="file:///C:/Users/Asad/Desktop/BA-CV.pdf">PDF</a>
+<a href="./BA-CV.pdf">PDF</a>
+<img src="./BA-CV.pdf">
